@@ -1,0 +1,20 @@
+C:\Users\visas\Desktop\koulu\2.vuosi periodi 2\Ohjelmistoprojekti\app\SykemittariV2\SykemittariV2\obj\Debug\SykemittariV2.csprojAssemblyReference.cache
+C:\Users\visas\Desktop\koulu\2.vuosi periodi 2\Ohjelmistoprojekti\app\SykemittariV2\SykemittariV2\obj\Debug\SykemittariV2.Form1.resources
+C:\Users\visas\Desktop\koulu\2.vuosi periodi 2\Ohjelmistoprojekti\app\SykemittariV2\SykemittariV2\obj\Debug\SykemittariV2.Properties.Resources.resources
+C:\Users\visas\Desktop\koulu\2.vuosi periodi 2\Ohjelmistoprojekti\app\SykemittariV2\SykemittariV2\obj\Debug\SykemittariV2.csproj.GenerateResource.cache
+C:\Users\visas\Desktop\koulu\2.vuosi periodi 2\Ohjelmistoprojekti\app\SykemittariV2\SykemittariV2\obj\Debug\SykemittariV2.csproj.CoreCompileInputs.cache
+C:\Users\visas\Desktop\koulu\2.vuosi periodi 2\Ohjelmistoprojekti\app\SykemittariV2\SykemittariV2\bin\Debug\SykemittariV2.exe.config
+C:\Users\visas\Desktop\koulu\2.vuosi periodi 2\Ohjelmistoprojekti\app\SykemittariV2\SykemittariV2\bin\Debug\SykemittariV2.exe
+C:\Users\visas\Desktop\koulu\2.vuosi periodi 2\Ohjelmistoprojekti\app\SykemittariV2\SykemittariV2\bin\Debug\SykemittariV2.pdb
+C:\Users\visas\Desktop\koulu\2.vuosi periodi 2\Ohjelmistoprojekti\app\SykemittariV2\SykemittariV2\obj\Debug\SykemittariV2.exe
+C:\Users\visas\Desktop\koulu\2.vuosi periodi 2\Ohjelmistoprojekti\app\SykemittariV2\SykemittariV2\obj\Debug\SykemittariV2.pdb
+C:\Users\Jasmiina\source\repos\SykemittariV2\SykemittariV2\bin\Debug\SykemittariV2.exe.config
+C:\Users\Jasmiina\source\repos\SykemittariV2\SykemittariV2\bin\Debug\SykemittariV2.exe
+C:\Users\Jasmiina\source\repos\SykemittariV2\SykemittariV2\bin\Debug\SykemittariV2.pdb
+C:\Users\Jasmiina\source\repos\SykemittariV2\SykemittariV2\obj\Debug\SykemittariV2.csprojAssemblyReference.cache
+C:\Users\Jasmiina\source\repos\SykemittariV2\SykemittariV2\obj\Debug\SykemittariV2.Form1.resources
+C:\Users\Jasmiina\source\repos\SykemittariV2\SykemittariV2\obj\Debug\SykemittariV2.Properties.Resources.resources
+C:\Users\Jasmiina\source\repos\SykemittariV2\SykemittariV2\obj\Debug\SykemittariV2.csproj.GenerateResource.cache
+C:\Users\Jasmiina\source\repos\SykemittariV2\SykemittariV2\obj\Debug\SykemittariV2.csproj.CoreCompileInputs.cache
+C:\Users\Jasmiina\source\repos\SykemittariV2\SykemittariV2\obj\Debug\SykemittariV2.exe
+C:\Users\Jasmiina\source\repos\SykemittariV2\SykemittariV2\obj\Debug\SykemittariV2.pdb
